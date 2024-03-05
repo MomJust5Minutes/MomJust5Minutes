@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luigi</h1>
 <h3 align="center">A passionate computer engineering student from Campinas</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=momjust5minutes&label=Profile%20views&color=0e75b6&style=flat" alt="momjust5minutes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momjust5minutes" alt="momjust5minutes" /></a> </p>
-
 - 🔭 I’m currently working with [Javascript](https://github.com/MomJust5Minutes/Electron-aprendizado)
 
 - 🌱 I’m currently learning **Frameworks, databases and more**
